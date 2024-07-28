@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/352815505036723426/dbc5f2b3317a44a4996e3dcbaeeafa7b/artifacts
+end_time: 1722187751457
+entry_point_name: ''
+experiment_id: '352815505036723426'
+lifecycle_stage: active
+run_id: dbc5f2b3317a44a4996e3dcbaeeafa7b
+run_name: fearless-newt-716
+run_uuid: dbc5f2b3317a44a4996e3dcbaeeafa7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722187751408
+status: 4
+tags: []
+user_id: a9529

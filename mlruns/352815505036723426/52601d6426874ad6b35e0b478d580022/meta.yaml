@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/352815505036723426/52601d6426874ad6b35e0b478d580022/artifacts
+end_time: 1722176122026
+entry_point_name: ''
+experiment_id: '352815505036723426'
+lifecycle_stage: active
+run_id: 52601d6426874ad6b35e0b478d580022
+run_name: shivering-cow-366
+run_uuid: 52601d6426874ad6b35e0b478d580022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722176111926
+status: 3
+tags: []
+user_id: a9529

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/c2948e498dfe449bbfa30da5eae6218b/artifacts
+end_time: 1722127824751
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: c2948e498dfe449bbfa30da5eae6218b
+run_name: bald-bear-750
+run_uuid: c2948e498dfe449bbfa30da5eae6218b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722127817823
+status: 3
+tags: []
+user_id: a9529

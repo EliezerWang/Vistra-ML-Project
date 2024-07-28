@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/d1f47a57ccf745d6b9060ec227fed1fc/artifacts
+end_time: 1722106035583
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: d1f47a57ccf745d6b9060ec227fed1fc
+run_name: fun-goat-415
+run_uuid: d1f47a57ccf745d6b9060ec227fed1fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722106033523
+status: 3
+tags: []
+user_id: a9529

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/c6207088508f4ee19604da159d634a8c/artifacts
+end_time: 1722097846969
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: c6207088508f4ee19604da159d634a8c
+run_name: lyrical-hawk-484
+run_uuid: c6207088508f4ee19604da159d634a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722097844926
+status: 3
+tags: []
+user_id: a9529

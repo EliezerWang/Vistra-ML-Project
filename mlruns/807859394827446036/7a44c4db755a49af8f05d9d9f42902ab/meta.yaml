@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/7a44c4db755a49af8f05d9d9f42902ab/artifacts
+end_time: 1722109358984
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 7a44c4db755a49af8f05d9d9f42902ab
+run_name: awesome-ape-462
+run_uuid: 7a44c4db755a49af8f05d9d9f42902ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722109356862
+status: 3
+tags: []
+user_id: a9529

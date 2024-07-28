@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/a05566e196c746bd9fc90e47bb97a321/artifacts
+end_time: 1722106116058
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: a05566e196c746bd9fc90e47bb97a321
+run_name: chill-swan-585
+run_uuid: a05566e196c746bd9fc90e47bb97a321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722106113990
+status: 3
+tags: []
+user_id: a9529

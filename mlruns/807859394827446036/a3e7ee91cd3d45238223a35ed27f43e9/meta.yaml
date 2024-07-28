@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/a3e7ee91cd3d45238223a35ed27f43e9/artifacts
+end_time: 1722109407643
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: a3e7ee91cd3d45238223a35ed27f43e9
+run_name: rumbling-fowl-8
+run_uuid: a3e7ee91cd3d45238223a35ed27f43e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722109405665
+status: 3
+tags: []
+user_id: a9529

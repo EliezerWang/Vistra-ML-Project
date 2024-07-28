@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/5f810c9daabe414b9199124c61222425/artifacts
+end_time: 1722123015476
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 5f810c9daabe414b9199124c61222425
+run_name: melodic-bass-234
+run_uuid: 5f810c9daabe414b9199124c61222425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722123013369
+status: 3
+tags: []
+user_id: a9529

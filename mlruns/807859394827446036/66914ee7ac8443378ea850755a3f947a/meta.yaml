@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/66914ee7ac8443378ea850755a3f947a/artifacts
+end_time: 1722097254747
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 66914ee7ac8443378ea850755a3f947a
+run_name: languid-zebra-513
+run_uuid: 66914ee7ac8443378ea850755a3f947a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722097252821
+status: 3
+tags: []
+user_id: a9529

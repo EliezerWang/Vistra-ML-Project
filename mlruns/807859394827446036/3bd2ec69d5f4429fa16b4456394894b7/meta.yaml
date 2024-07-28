@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/3bd2ec69d5f4429fa16b4456394894b7/artifacts
+end_time: 1722097230449
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 3bd2ec69d5f4429fa16b4456394894b7
+run_name: powerful-hog-715
+run_uuid: 3bd2ec69d5f4429fa16b4456394894b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722097228500
+status: 3
+tags: []
+user_id: a9529

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/352815505036723426/062c4edebdb84c5b9444d3356ef92e97/artifacts
+end_time: 1722148693891
+entry_point_name: ''
+experiment_id: '352815505036723426'
+lifecycle_stage: active
+run_id: 062c4edebdb84c5b9444d3356ef92e97
+run_name: efficient-goat-225
+run_uuid: 062c4edebdb84c5b9444d3356ef92e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722148684699
+status: 3
+tags: []
+user_id: a9529

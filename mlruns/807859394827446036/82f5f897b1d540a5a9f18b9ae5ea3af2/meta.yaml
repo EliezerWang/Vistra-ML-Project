@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/82f5f897b1d540a5a9f18b9ae5ea3af2/artifacts
+end_time: 1722106007348
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 82f5f897b1d540a5a9f18b9ae5ea3af2
+run_name: unleashed-gnu-482
+run_uuid: 82f5f897b1d540a5a9f18b9ae5ea3af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722106005377
+status: 3
+tags: []
+user_id: a9529

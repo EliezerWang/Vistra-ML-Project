@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/352815505036723426/bafc8e183f1a44bbae64b11838cc332b/artifacts
+end_time: 1722188534654
+entry_point_name: ''
+experiment_id: '352815505036723426'
+lifecycle_stage: active
+run_id: bafc8e183f1a44bbae64b11838cc332b
+run_name: ambitious-ape-820
+run_uuid: bafc8e183f1a44bbae64b11838cc332b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722188534617
+status: 4
+tags: []
+user_id: a9529

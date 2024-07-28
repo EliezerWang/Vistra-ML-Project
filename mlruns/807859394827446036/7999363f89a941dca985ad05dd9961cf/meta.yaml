@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/7999363f89a941dca985ad05dd9961cf/artifacts
+end_time: 1722122847864
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 7999363f89a941dca985ad05dd9961cf
+run_name: able-midge-147
+run_uuid: 7999363f89a941dca985ad05dd9961cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722122842459
+status: 3
+tags: []
+user_id: a9529

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/0cc05fed57a94f7f831943dc0b793f42/artifacts
+end_time: 1722097793669
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 0cc05fed57a94f7f831943dc0b793f42
+run_name: efficient-moose-695
+run_uuid: 0cc05fed57a94f7f831943dc0b793f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722097791781
+status: 3
+tags: []
+user_id: a9529

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/b2f74fb4267546449a240111f14cb747/artifacts
+end_time: 1722108760376
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: b2f74fb4267546449a240111f14cb747
+run_name: bold-roo-881
+run_uuid: b2f74fb4267546449a240111f14cb747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722108757418
+status: 3
+tags: []
+user_id: a9529

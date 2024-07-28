@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/717468167725466739/a1b82cd703c84954adcc2b8e62c0ed41/artifacts
+end_time: 1722109643961
+entry_point_name: ''
+experiment_id: '717468167725466739'
+lifecycle_stage: active
+run_id: a1b82cd703c84954adcc2b8e62c0ed41
+run_name: righteous-gnu-264
+run_uuid: a1b82cd703c84954adcc2b8e62c0ed41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722109641821
+status: 3
+tags: []
+user_id: a9529

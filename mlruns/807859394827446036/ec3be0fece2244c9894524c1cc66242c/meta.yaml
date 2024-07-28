@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/ec3be0fece2244c9894524c1cc66242c/artifacts
+end_time: 1722109376310
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: ec3be0fece2244c9894524c1cc66242c
+run_name: fearless-gnat-765
+run_uuid: ec3be0fece2244c9894524c1cc66242c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722109374219
+status: 3
+tags: []
+user_id: a9529

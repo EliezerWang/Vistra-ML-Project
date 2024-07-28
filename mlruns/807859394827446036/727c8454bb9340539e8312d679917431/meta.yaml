@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/727c8454bb9340539e8312d679917431/artifacts
+end_time: 1722125549763
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: 727c8454bb9340539e8312d679917431
+run_name: judicious-duck-553
+run_uuid: 727c8454bb9340539e8312d679917431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722125547426
+status: 3
+tags: []
+user_id: a9529

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/717468167725466739/2acfdb6611a34a69b0f2252654381d74/artifacts
+end_time: 1722093502450
+entry_point_name: ''
+experiment_id: '717468167725466739'
+lifecycle_stage: active
+run_id: 2acfdb6611a34a69b0f2252654381d74
+run_name: sassy-mule-556
+run_uuid: 2acfdb6611a34a69b0f2252654381d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722093498523
+status: 3
+tags: []
+user_id: a9529

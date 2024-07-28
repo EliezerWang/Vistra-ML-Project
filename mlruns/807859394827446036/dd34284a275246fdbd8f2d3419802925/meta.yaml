@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/dd34284a275246fdbd8f2d3419802925/artifacts
+end_time: 1722123064550
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: dd34284a275246fdbd8f2d3419802925
+run_name: skillful-dove-101
+run_uuid: dd34284a275246fdbd8f2d3419802925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722123062341
+status: 3
+tags: []
+user_id: a9529

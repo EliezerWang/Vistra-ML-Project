@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/352815505036723426/5e90ce84afd54368b473342b29e17448/artifacts
+end_time: 1722188596523
+entry_point_name: ''
+experiment_id: '352815505036723426'
+lifecycle_stage: active
+run_id: 5e90ce84afd54368b473342b29e17448
+run_name: merciful-roo-927
+run_uuid: 5e90ce84afd54368b473342b29e17448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722188561164
+status: 4
+tags: []
+user_id: a9529

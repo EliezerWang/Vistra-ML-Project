@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/807859394827446036/fb67a0b8e95e402da296a279de4aa3fe/artifacts
+end_time: 1722108893364
+entry_point_name: ''
+experiment_id: '807859394827446036'
+lifecycle_stage: active
+run_id: fb67a0b8e95e402da296a279de4aa3fe
+run_name: upbeat-toad-612
+run_uuid: fb67a0b8e95e402da296a279de4aa3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722108891255
+status: 3
+tags: []
+user_id: a9529

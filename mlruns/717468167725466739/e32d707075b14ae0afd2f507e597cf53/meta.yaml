@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a9529/Downloads/Vistra%20ML%20Project/mlruns/717468167725466739/e32d707075b14ae0afd2f507e597cf53/artifacts
+end_time: 1722109614715
+entry_point_name: ''
+experiment_id: '717468167725466739'
+lifecycle_stage: active
+run_id: e32d707075b14ae0afd2f507e597cf53
+run_name: funny-gull-675
+run_uuid: e32d707075b14ae0afd2f507e597cf53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722109612717
+status: 3
+tags: []
+user_id: a9529
